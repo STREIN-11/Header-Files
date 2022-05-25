@@ -37,7 +37,7 @@ void calc(int* numstack , int* numtop, int* opstack , int* optop){
 int main(void){
     int optop = 0 , numtop = 0, i=0 , numstack[50] , opstack[30];
     char str[102], c;
-    clrscr();
+    // clrscr();
 
     // read and trim input evaluatioon string
     printf("enter string to be evaluated (100 chars max): ");
