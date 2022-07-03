@@ -15,6 +15,7 @@ void cal(int a,int b){
     printf("Result is : %d",sum);
 }
 
+//For Subtract
 void cal(int a,int b){
     int sum=0;
     sum = a-b;
