@@ -7,7 +7,6 @@ void inf_bal()
     printf("bal");
     }
 }
-
 ///For Adddd
 void cal(int a,int b){
     int sum=0;
