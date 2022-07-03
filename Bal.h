@@ -8,6 +8,7 @@ void inf_bal()
     }
 }
 
+///For Adddd
 void cal(int a,int b){
     int sum=0;
     sum = a+b;
