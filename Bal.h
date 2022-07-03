@@ -14,6 +14,14 @@ void cal(int a,int b){
     sum = a+b;
     printf("Result is : %d",sum);
 }
+
+void cal(int a,int b){
+    int sum=0;
+    sum = a-b;
+    printf("Result is : %d",sum);
+}
+
+
 //Prototype
 void bal_er_love();
 //Declaration
